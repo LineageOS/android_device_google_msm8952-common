@@ -11,6 +11,3 @@ ENABLE_CPUSETS := true
 
 TARGET_KERNEL_SOURCE := kernel/google/shamrock
 TARGET_KERNEL_ARCH := arm
-
-KERNEL_TOOLCHAIN := $(ANDROID_BUILD_TOP)/prebuilts/gcc/$(HOST_OS)-x86/arm/arm-eabi-4.9/bin
-TARGET_KERNEL_CROSS_COMPILE_PREFIX := arm-eabi-
