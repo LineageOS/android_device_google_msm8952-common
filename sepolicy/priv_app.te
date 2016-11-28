@@ -1,0 +1,6 @@
+allow priv_app configfs:dir { read search };
+allow priv_app debugfs:dir read;
+allow priv_app device:dir read;
+allow priv_app persist_file:dir search;
+allow priv_app tombstone_data_file:dir { getattr search };
+allow priv_app unlabeled:dir { read getattr search };
