@@ -26,3 +26,6 @@ PRODUCT_PACKAGES += \
 	
 PRODUCT_BOOT_JARS += \
     telephony-ext
+
+PRODUCT_PACKAGES += \
+    fs_config_files
