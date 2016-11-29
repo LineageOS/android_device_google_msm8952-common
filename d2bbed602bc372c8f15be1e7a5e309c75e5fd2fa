@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f681702_98afa393",
+        "filename": "sepolicy/per_mgr.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2016-11-29T22:10:01Z",
+      "side": 1,
+      "message": "This is depredated, you should use fs_config, look at asus_msm8916-common ( the ims commits but you have to do the same for per_mgr )",
+      "revId": "d2bbed602bc372c8f15be1e7a5e309c75e5fd2fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f681702_38c92f78",
+        "filename": "sepolicy/perfd.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2016-11-29T22:10:01Z",
+      "side": 1,
+      "message": "You should label the file\nsystem_data_file is too generic",
+      "revId": "d2bbed602bc372c8f15be1e7a5e309c75e5fd2fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f681702_98ba03dc",
+        "filename": "sepolicy/untrusted_app.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2016-11-29T22:10:01Z",
+      "side": 1,
+      "message": "Never allow untrusted_app",
+      "revId": "d2bbed602bc372c8f15be1e7a5e309c75e5fd2fa",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
