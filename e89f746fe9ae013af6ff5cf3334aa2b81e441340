@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f681702_6c4f68bd",
+        "filename": "android_filesystem_config.h",
+        "patchSetId": 4
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2016-11-30T15:04:47Z",
+      "side": 1,
+      "message": "/vendor/bin/pm-service?",
+      "range": {
+        "startLine": 35,
+        "startChar": 88,
+        "endLine": 35,
+        "endChar": 112
+      },
+      "revId": "e89f746fe9ae013af6ff5cf3334aa2b81e441340",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5f681702_4c4c2cc7",
+        "filename": "android_filesystem_config.h",
+        "patchSetId": 4
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2016-11-30T15:04:47Z",
+      "side": 1,
+      "message": "Not needed",
+      "range": {
+        "startLine": 36,
+        "startChar": 0,
+        "endLine": 36,
+        "endChar": 117
+      },
+      "revId": "e89f746fe9ae013af6ff5cf3334aa2b81e441340",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
