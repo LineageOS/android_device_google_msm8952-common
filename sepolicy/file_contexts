@@ -1,9 +1,5 @@
-
 # Wifi
 /persist/.genmac                                u:object_r:wifi_data_file:s0
-
-#Smd
-/dev/smd3                                       u:object_r:hci_attach_dev:s0
 
 #Property
 /dev/socket/property_service                    u:object_r:property_socket:s0
