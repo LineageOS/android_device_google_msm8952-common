@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f681702_7041e40b",
+        "filename": "sepolicy/file_contexts",
+        "patchSetId": 7
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2016-12-07T14:57:46Z",
+      "side": 1,
+      "message": "https://github.com/CyanogenMod/android_device_qcom_sepolicy/commit/46c74da9aa4bcc0ef4d21492ff484def674ba9f9",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 74
+      },
+      "revId": "61b105794b1804fcce8d961bc75491e3a61ad11e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
