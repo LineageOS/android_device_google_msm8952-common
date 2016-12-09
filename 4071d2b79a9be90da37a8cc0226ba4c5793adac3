@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5f681702_9f6004d1",
+        "filename": "sepolicy/file_contexts",
+        "patchSetId": 8
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2016-12-09T08:33:07Z",
+      "side": 1,
+      "message": "These rules are duplicay\nted and you nevee needed them",
+      "revId": "4071d2b79a9be90da37a8cc0226ba4c5793adac3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
